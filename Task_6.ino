@@ -10,8 +10,8 @@
 #include <WiFi.h>
 
 // WiFi credentials
-const char* ssid = "akash";                    //Enter your wifi hotspot ssid
-const char* password =  "akashsingh";          //Enter your wifi hotspot password
+const char* ssid = "OPPO A31";                    //Enter your wifi hotspot ssid
+const char* password =  "123456789";          //Enter your wifi hotspot password
 const uint16_t port = 8002;                     // Port number for communication
 const char * host = "192.168.47.126";           // Host IP address
 
