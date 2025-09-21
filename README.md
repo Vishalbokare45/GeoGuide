@@ -1,30 +1,30 @@
-# 🤖 Vanguard – AI-Powered Autonomous Robot for Hazardous Environments
+# Vanguard– AI-Powered Autonomous Vehicle
 
-## 🧠 Overview
+# Overview
 Vanguard is an AI-driven autonomous robot built using ESP32 and machine learning techniques for real-time navigation and situational awareness in hazardous or disaster-prone areas. It intelligently detects key scenarios and dynamically follows optimal paths using graph-based algorithms.
 
 ---
 
-## 🎯 Key Features
+# Key Features
 
-- 🔍 **Real-Time Image Classification**  
+-  **Real-Time Image Classification**  
   Detects 5 scene types – *Fire*, *Military Vehicles*, *Humanitarian Aid*, *Destroyed Buildings*, and *Combat* using a custom-trained model.
 
-- 🧭 **Autonomous Navigation**  
+-  **Autonomous Navigation**  
   Uses ArUco markers and a line-following mechanism for physical path traversal on a predefined map.
 
-- 🗺️ **Shortest Path Optimization**  
+- 🗺 **Shortest Path Optimization**  
   Applies **Dijkstra’s Algorithm** for efficient and intelligent movement between detected zones.
 
-- 🛑 **Trigger-based Actions**  
+- **Trigger-based Actions**  
   Stops at relevant detection points and activates a buzzer signal for alerts.
 
-- ⚙️ **Modular Design**  
+-  **Modular Design**  
   Clean separation between image processing, path planning, and hardware control modules.
 
 ---
 
-## ⚙️ Technologies Used
+## Technologies Used
 
 - **Hardware**: ESP32, Sensors, Motors, Buzzer  
 - **Computer Vision**: OpenCV, ArUco Markers  
@@ -54,22 +54,7 @@ Vanguard is an AI-driven autonomous robot built using ESP32 and machine learning
 
 ---
 
-## 🚀 Your Contribution
 
-> **Image Classification**: Designed and integrated a custom CNN model; implemented OpenCV-based capture and preprocessing pipeline.  
-> **Path Planning**: Developed and tested Dijkstra’s algorithm for optimal route computation; connected logic to hardware behavior.
-
----
-
-## 📄 Patent Info
-
-This system has been submitted for **patent publication** for its novel integration of AI and robotics in real-world applications.
-
----
-
-## 📸 Demo / Screenshots
-
-![Project Overview](https://ik.imagekit.io/lsjvrmtvi3/image.png?updatedAt=1747678060452)
 
 ---
 
