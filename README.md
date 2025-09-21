@@ -1,7 +1,7 @@
-# Vanguard– AI-Powered Autonomous Vehicle
+# GeoGuide– AI-Powered Autonomous Vehicle
 
 # Overview
-Vanguard is an AI-driven autonomous robot built using ESP32 and machine learning techniques for real-time navigation and situational awareness in hazardous or disaster-prone areas. It intelligently detects key scenarios and dynamically follows optimal paths using graph-based algorithms.
+Geoguide is an AI-driven autonomous robot built using ESP32 and machine learning techniques for real-time navigation and situational awareness in hazardous or disaster-prone areas. It intelligently detects key scenarios and dynamically follows optimal paths using graph-based algorithms.
 
 ---
 
