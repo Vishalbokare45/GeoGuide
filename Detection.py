@@ -1,4 +1,4 @@
-#  Author: Rajas Bhosale
+#  Author: Vishal Boakre
 #  Filename: Detection.py
 #  Functions: search_char, del_val, format_print, classify_event, crop, cropping_v1, character, recognize_characters, filter_contours, task_4a_return, detect
 #  Global Variables: classes, reader, val_lis
