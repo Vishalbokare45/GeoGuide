@@ -1,4 +1,4 @@
-#  Author: Rajas Bhosale
+
 #  Filename: direction_algo.py
 #  Functions: dijkstra_shortest_path, direction, angle, find_nearest_index, turning_str
 #  Global Variables: coordinates, cord, bot_id
