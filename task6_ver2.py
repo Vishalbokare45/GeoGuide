@@ -1,5 +1,5 @@
 # ''' 
-# * Author: Rajas Bhosale
+
 # * Filename: task_6.py
 # * Functions: rem_garbage, cropping_v3, cropping_v5, cropping_v1, detect_ArUco_details, mark_ArUco_image, send_instruction, receive_from_usp32, signal_handler, cleanup
 # * Global Variables: ArUco_details_dict, bot_id, ArUco_corners, priority_order, key_id_mapping, min_max_mapping, graph
